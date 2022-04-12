@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/6g5/6g5/main/hi.svg"/>
+<img src="https://raw.githubusercontent.com/6g5/6g5/main/Hi.svg"/>
 
 ---
 
