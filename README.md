@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/hi.svg" alt=":wave:" />
+<img src="https://raw.githubusercontent.com/6g5/6g5/main/hi.svg" alt=":wave:" />
 
 ---
 
