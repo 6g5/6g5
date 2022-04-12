@@ -1,4 +1,4 @@
-👋 **Hi!**
+<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/hi.svg" alt=":wave:" />
 
 ---
 
