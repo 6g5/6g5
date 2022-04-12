@@ -3,7 +3,7 @@
 ---
 
 <a href="https://discord.com/users/705665813994012695">
-  <img src="https://lanyard.cnrad.dev/api/636268679767654430" align="center" />
+  <img src="https://lanyard.cnrad.dev/api/636268679767654430?bg=171717&&animated=false&hideDiscrim=true" align="center" />
 </a>
 
 ---
